@@ -1,0 +1,2 @@
+# bashrc
+My own bashrc 😈
